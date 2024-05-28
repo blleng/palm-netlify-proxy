@@ -44,7 +44,6 @@ export default async (request: Request, context: Context) => {
   <li>When you see the error message &quot;User location is not supported for the API use&quot; when calling the Google PaLM API</li>
   <li>You want to customize the Google PaLM API</li>
   </ol>
-  <p>For technical discussions, please visit <a href="https://simonmy.com/posts/使用netlify反向代理google-palm-api.html">https://simonmy.com/posts/使用netlify反向代理google-palm-api.html</a></p>
 </body>
 </html>
     `
